@@ -5,7 +5,13 @@
    ========================================================================== */
 
 
-
+.green-area {
+color: #fff;
+background-color: #32a17e;
+background-image: url(/img/bg_grid_points.png);
+background-position: top left;
+padding: 1em;
+}
 
 
 
